@@ -1,16 +1,42 @@
-## Hi there 👋
+# Vitalijus | SOC Home Lab | Blue Team Practice
 
-<!--
-**vitalijus-soc/vitalijus-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building and documenting a personal SOC home lab focused on:
 
-Here are some ideas to get you started:
+- Threat detection
+- Log analysis
+- Security monitoring
+- Incident investigation
+- Blue Team practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Suricata IDS investigations
+- Wazuh SIEM monitoring
+- Simulated attack scenarios
+- SOC-style case documentation
+
+---
+
+## Tools and Technologies
+
+- Suricata
+- Wazuh
+- Wireshark
+- tcpdump
+- Docker
+- Sysmon
+- VirtualBox
+
+---
+
+## Featured Project
+
+- [SOC Home Lab](https://github.com/vitalijus-soc/soc-home-lab)
+
+---
+
+## Portfolio
+
+- Portfolio website: https://vitalijuslab.com
